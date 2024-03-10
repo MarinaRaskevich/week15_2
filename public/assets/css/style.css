@@ -1,0 +1,11 @@
+p {
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding-left: 0;
+}
